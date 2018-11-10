@@ -21,16 +21,23 @@ export default class App extends React.Component<AppProps, AppState> {
             outString += i;
         }
 
+        let arrayStr:string = 'abcdefghijklmnopqrstuvwxyz';
+        let txt:string = "";
+        let num:number = 0;
+
+        let insert:string = "<div>";
+        for (i=0; i<5; i++) {
+            txt = arrayStr[i + 2];
+            num = i ** 2;
+            insert += `<Entry text=${txt} num=${num} />`;        }
+
+        insert += "</div>";
+
         return (<div>
 
             hi SOMETHING {outString}
-
-            <Entry />
-            <Entry />
-            <Entry />
-            <Entry />
-            <Entry />
-
+            <div dangerouslySetInnerHTML={{__html: insert}}/>
+            
         </div>)
 
 
