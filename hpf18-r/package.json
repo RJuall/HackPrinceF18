@@ -1,0 +1,21 @@
+{
+  "name": "hack-prince-f18-rob",
+  "version": "0.0.1",
+  "description": "Hack Princeton Fall '18 Misadventures in React",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Robert Juall",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.0.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
