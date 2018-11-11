@@ -1,9 +1,12 @@
 # Food Security and Climate Change
-# 11/10/18 10:30am
+
 ## clentz@princeton.edu
+
 ## fai.princeton.edu
 
-## Humans control the biosphere
+### 11/10/18 10:30am
+
+#### Humans control the biosphere
 
 By 2050, ~10B people on earth
 
@@ -28,7 +31,7 @@ Moving towards a plant-based diet more sustainable
 - Elementary school
 - Academic courses
 
-## Paths Forward:
+#### Paths Forward:
 
 - Improve Food Production Systems
   - Create nutrient-rich landscapes
@@ -41,7 +44,7 @@ Moving towards a plant-based diet more sustainable
   - Influence consumer decisions
   - Mobilize key actors to become biosphere stewards
 
-## Technology offers hope
+#### Technology offers hope
 
 - Arable
 - Clear Labs

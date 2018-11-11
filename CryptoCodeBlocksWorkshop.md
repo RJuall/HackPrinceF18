@@ -1,6 +1,8 @@
 # Crypto Code Blocks
-# Tom Catalano, altusnet
-# 11/10/2018 11am
+
+## Tom Catalano, altusnet
+
+### 11/10/2018 11am
 
 Underlying Tech:
 
