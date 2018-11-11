@@ -4,7 +4,9 @@ Hack Princeton Fall '18 - Round 2
 
 1st HackPrinceton GitHub from 11/9/2018 was nuked!
 
-<img src="http://drive.google.com/uc?export=view&id=1Sj-AQjcX86hi6lhQUmPH-3Ri-zdPTLRD" height=250>
+<img src="https://preview.ibb.co/dfAqLA/Hack-Prince-F18.jpg" alt="Hack-Prince-F18" border="0" height=500></a>
+
+## Code
 
 #### Learn the MERN Stack - Brad Traversy
 
@@ -28,3 +30,9 @@ Hack Princeton Fall '18 - Round 2
 
 [Jacob Cole Site](http://jacobcole.net/)
 
+## Notes
+
+* Google Cloud Workshop
+* Cryptography Workshop
+* Food Scarcity and Sustainability Workshop
+* stdlib API Creator Workshop
